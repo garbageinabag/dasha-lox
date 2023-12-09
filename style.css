@@ -18,12 +18,10 @@
 .home{
     text-decoration: none;
     margin-left: 1200px;
-    font-family: Courier, monospace;
 }
 .about_company{
     text-decoration: none;
     margin-left: 60px;
-    font-family: Courier, monospace;
 }
 .block{
     display: flex;
